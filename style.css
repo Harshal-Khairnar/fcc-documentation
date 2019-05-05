@@ -49,9 +49,10 @@ body {
 }
 
 #main-doc {
-    margin-top: 3rem;
+    margin-top: 0rem;
     margin-left: 30%;
     padding: 3rem;
+    padding-top: 0;
     width: 70%;
     flex: 1 1 auto;
 }
@@ -97,6 +98,7 @@ body {
     font-size: 1.7rem;
     color: #858a91;
     margin-bottom: 2rem;
+    padding-top: 9rem;
 }
 
 .main-section header::before {
